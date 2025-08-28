@@ -1,4 +1,4 @@
-Adblock Plus]
+[Adblock Plus]
 ! Title: Robert's Meta DNS Blocklist
 ! Description: Completely blocks all access to all Meta domains.
 ! Homepage: https://github.com/RobertDNelson/dns-blocklists
