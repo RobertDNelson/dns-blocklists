@@ -3,11 +3,9 @@
 ! Description: Completely blocks all access to all Meta domains.
 ! Homepage: https://github.com/RobertDNelson/dns-blocklists
 ! Expires: 1 day
-! Last modified: 28 Aug 2025 11:30 UTC
-! Version: 2025.0828.1130.54
 ! Syntax: AdBlock
-! Number of entries: 3
 !
 ||facebook.com^
 ||instagram.com^
 ||whatsapp.com^
+||whatsapp.net^
