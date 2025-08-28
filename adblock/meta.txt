@@ -5,8 +5,8 @@
 ! Expires: 1 day
 ! Syntax: AdBlock
 !
-||facebook.com^
-||www.facebook.com^
+facebook.com
+www.facebook.com
 ||instagram.com^
 ||www.instagram.com^
 ||whatsapp.com^
