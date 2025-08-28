@@ -6,6 +6,8 @@
 ! Syntax: AdBlock
 !
 ||facebook.com^
+||www.facebook.com^
 ||instagram.com^
+||www.instagram.com^
 ||whatsapp.com^
 ||whatsapp.net^
