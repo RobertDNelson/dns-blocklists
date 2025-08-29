@@ -1,0 +1,22 @@
+[
+  {
+    "action": "deny",
+    "remote-domains": [
+      "facebook.com",
+      "instagram.com",
+      "whatsapp.com",
+      "whatsapp.net"
+    ],
+    "processes": [
+      "Any Process"
+    ],
+    "ports": [
+      "Any Port"
+    ],
+    "protocols": [
+      "Any"
+    ],
+    "direction": "Any",
+    "comment": "Robert's own custom social media DNS blocklist."
+  }   
+]     
