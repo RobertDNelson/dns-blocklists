@@ -15,4 +15,16 @@
       "notes": "Blocked by custom list"
     }
   ]
+}
+
+{
+  "name": "Custom Social Media Blocklist",
+  "description": "Robert’s own custom social media DNS blocklist.",
+  "denied-remote-domains": [
+    "facebook.com",
+    "instagram.com",
+    "whatsapp.com",
+    "whatsapp.net"
+  ],
+  "denied-remote-notes": "Blocked by custom list"
 }     
